@@ -1,0 +1,76 @@
+INFO:utils:Starting to fetch data from url
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:utils:Starting to fetch data from url
+INFO:utils:An error occured: {e}
+INFO:utils:Started scrolling the page
+INFO:utils:Finished scrolling the page
+INFO:utils:Saving the page to hmtl file
+INFO:utils:Successfully saved the html file
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:utils:Starting to fetch data from url
+INFO:utils:Started scrolling the page
+INFO:utils:Finished scrolling the page
+INFO:utils:Saving the page to hmtl file
+INFO:utils:Successfully saved the html file
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:utils:Starting to fetch data from url
+INFO:utils:Started scrolling the page
+INFO:utils:Finished scrolling the page
+INFO:utils:Saving the page to hmtl file
+INFO:utils:Successfully saved the html file
+INFO:utils:Starting processing data
+INFO:utils:Successfully finished processing
+INFO:utils:Preparing data to save to csv
+INFO:utils:Data successfully prepared
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:utils:Starting to fetch data from url
+INFO:utils:Started scrolling the page
+INFO:utils:Finished scrolling the page
+INFO:utils:Saving the page to hmtl file
+INFO:utils:Successfully saved the html file
+INFO:utils:Starting processing data
+INFO:utils:Successfully finished processing
+INFO:utils:Preparing data to save to csv
+INFO:utils:Data successfully prepared
+INFO:utils:Data Successfully saved to csv
+INFO:utils:html file already exists, loading from cache
+INFO:utils:Starting processing data
+INFO:utils:Successfully finished processing
+INFO:utils:Preparing data to save to csv
+INFO:utils:Data successfully prepared
+INFO:utils:Data Successfully saved to csv
+INFO:utils:html file already exists, loading from cache
+INFO:utils:Starting processing data
+INFO:utils:Successfully finished processing
+INFO:utils:Preparing data to save to csv
+INFO:utils:Data successfully prepared
+INFO:utils:Data Successfully saved to csv
+INFO:utils:html file already exists, loading from cache
+INFO:utils:Starting processing data
+INFO:utils:Successfully finished processing
+INFO:utils:Preparing data to save to csv
+INFO:utils:Data successfully prepared
+INFO:utils:Data Successfully saved to csv
+INFO:utils:html file already exists, loading from cache
+INFO:utils:Starting processing data
+INFO:utils:Successfully finished processing
+INFO:utils:Preparing data to save to csv
+INFO:utils:Data successfully prepared
+INFO:utils:Data Successfully saved to csv
+INFO:utils:html file already exists, loading from cache
+INFO:utils:Starting processing data
+INFO:utils:Successfully finished processing
+INFO:utils:Preparing data to save to csv
+INFO:utils:Data successfully prepared
+INFO:utils:Data Successfully saved to csv
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:utils:Starting to fetch data from url
+INFO:utils:Started scrolling the page
+INFO:utils:Finished scrolling the page
+INFO:utils:Saving the page to hmtl file
+INFO:utils:Successfully saved the html file
+INFO:utils:Starting processing data
+INFO:utils:Successfully finished processing
+INFO:utils:Preparing data to save to csv
+INFO:utils:Data successfully prepared
+INFO:utils:Data Successfully saved to csv
